@@ -37,3 +37,6 @@ python run_pipeline.py
 └── data/
     └── tfl-journeys-type.csv
 ```
+## Data source
+Download from [TfL Open Data](https://tfl.gov.uk/info-for/open-data-users/)
+and place in the `data/` folder.
