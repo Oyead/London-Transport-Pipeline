@@ -1,0 +1,7 @@
+.venv/
+.env
+transport_data.db
+__pycache__/
+*.pyc
+.vscode/
+outputs/
